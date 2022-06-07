@@ -22,3 +22,4 @@ worker.onerror = console.log;
 // timeStamp: 106.09999999962747
 // type: "error"
 // [[Prototype]]: ErrorEvent
+
